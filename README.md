@@ -16,7 +16,7 @@
 - 💬 Ask me about my experience with JavaScript, ReactJS and TypeScript or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://portfolio-2025-gilt.vercel.app/ to see some of the projects I've worked on.
-- 👨‍💻 Check out my CV at (https://docs.google.com/document/d/13auRksW65K_czr4bfSC4Hz8_ws0RGT_XFhNnpvUZns4/edit?usp=sharing)
+- 👨‍💻 Check out my [CV](https://docs.google.com/document/d/13auRksW65K_czr4bfSC4Hz8_ws0RGT_XFhNnpvUZns4/edit?usp=sharing)
 
 
 ### Connect with Me :
